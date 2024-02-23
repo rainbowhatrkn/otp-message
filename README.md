@@ -31,7 +31,7 @@ cd otp-message
 Run the tool:
 
 ```bash
-python otp_message.py
+python main.py
 ```
 
 Follow the on-screen instructions to generate one-time pads, encrypt, and decrypt messages.
