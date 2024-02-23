@@ -1,4 +1,3 @@
-
 # OTP Secret Message by Trhacknon
 
 Encrypt and decrypt secret messages using one-time pads with Trhacknon's OTP Message tool.
@@ -32,7 +31,7 @@ cd otp-message
 Run the tool:
 
 ```bash
-python main.py
+python otp_message.py
 ```
 
 Follow the on-screen instructions to generate one-time pads, encrypt, and decrypt messages.
@@ -48,6 +47,12 @@ If you'd like to contribute to this project, please follow these steps:
 5. Push your changes to your fork.
 6. Open a pull request on the main repository.
 
+### Screenshots
+
+![Screenshot 1](./sc1.jpg)
+![Screenshot 2](./sc2.jpg)
+![Screenshot 3](./sc3.jpg)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -55,4 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Trhacknon - Anonymous hacktivist and developer.
-
