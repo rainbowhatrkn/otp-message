@@ -3,6 +3,10 @@
 
 Encrypt and decrypt secret messages using one-time pads with Trhacknon's OTP Message tool.
 
+## Clone on replit
+
+[![Run on Replit](https://replit.com/badge/github/rainbowhatrkn/otp-message)](https://replit.com/github/rainbowhatrkn/otp-message)
+
 ## Getting Started
 
 These instructions will help you set up and use the OTP Message tool.
@@ -52,4 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Trhacknon - Anonymous hacktivist and developer.
 
-[![Run on Replit](https://replit.com/badge/github/rainbowhatrkn/otp-message)](https://replit.com/github/rainbowhatrkn/otp-message)
