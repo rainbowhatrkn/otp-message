@@ -49,9 +49,9 @@ If you'd like to contribute to this project, please follow these steps:
 
 ### Screenshots
 
-![Screenshot 1](./sc1.jpg)
-![Screenshot 2](./sc2.jpg)
-![Screenshot 3](./sc3.jpg)
+![Screenshot 1](./sc3.jpg)
+![Screenshot 2](./sc1.jpg)
+![Screenshot 3](./sc2.jpg)
 
 ## License
 
